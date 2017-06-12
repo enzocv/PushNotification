@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193757988941",
+    "firebase_url": "https://pushnotification-e5c09.firebaseio.com",
+    "project_id": "pushnotification-e5c09",
+    "storage_bucket": "pushnotification-e5c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193757988941:android:a847dc1e43c5639f",
+        "android_client_info": {
+          "package_name": "com.enzo.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193757988941-4lofc3lcrj40jfnrhq8tqa7dk4rh9lun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHz6WFNoaTUibeECDySW0ELUMFh6Ys2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
